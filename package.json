@@ -17,5 +17,9 @@
   "dependencies": {
     "mongoose": "~3.0.2"
   },
-  "homepage": "http://github.com/adamjacobbecker/mongoose-api-query"
+  "homepage": "http://github.com/adamjacobbecker/mongoose-api-query",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/heks/mongoose-api-query.git"
+  }
 }
